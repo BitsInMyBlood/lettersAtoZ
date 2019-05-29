@@ -10,7 +10,7 @@ import android.view.MotionEvent;
 import android.view.View;
 
 public class MyCanvas extends View {
-
+    // Create the Paint and Path
     Paint paint;
     Path path;
 
